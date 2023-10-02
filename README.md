@@ -1,0 +1,1 @@
+ This repository consists of major examples from arrays,structures,pointers, functions, enum and bitwise operators in c program which helps embedded system developers
